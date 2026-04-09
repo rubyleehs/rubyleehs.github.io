@@ -93,10 +93,7 @@
       {% endif %}      
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
-      {% endif %}
-      {% if author.itchio %}
-        <li><a href="https://{{ author.itchio }}.itch.io"><i class="fab fa-fw fa-itch-io icon-pad-right" aria-hidden="true"></i>Itch.io</a></li>
-      {% endif %}         
+      {% endif %}    
 
       <!-- Font Awesome icons / Social media -->
       {% if author.artstation %}
@@ -173,7 +170,10 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+      {% if author.itchio %}
+        <li><a href="https://{{ author.itchio }}.itch.io"><i class="fab fa-fw fa-itch-io icon-pad-right" aria-hidden="true"></i>Itch.io</a></li>
+      {% endif %}           
     </ul>
   </div>
 </div>
