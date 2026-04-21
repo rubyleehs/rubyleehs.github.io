@@ -48,13 +48,15 @@
 }
 
 .archive__item-authors {
-  font-size: $type-size-4;
+  font-size: $type-size-6;
   color: var(--global-text-color-light);
+  margin: 0;
 }
 
 .archive__item-venue {
-  font-size: $type-size-3;
+  font-size: $type-size-7;
   color: var(--global-text-color-light);
+  margin: 0;
 }
 
 
