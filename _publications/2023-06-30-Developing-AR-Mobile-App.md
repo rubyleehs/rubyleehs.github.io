@@ -9,5 +9,3 @@ date: 2023-06-30
 venue: "Proceedings of the 2023 4th International Conference on Education, Knowledge and Information Management (ICEKIM 2023)"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-
-Test

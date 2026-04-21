@@ -9,5 +9,3 @@ date: 2024-05-11
 venue: "Proceedings of the CHI 24 Conference on Human Factors in Computing Systems"
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
-
-Test
