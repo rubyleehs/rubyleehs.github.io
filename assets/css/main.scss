@@ -39,5 +39,26 @@
 
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
+    "vendor/font-awesome/brands";
+
+
+/* Publication tags */
+.pub-tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.72em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-right: 4px;
+  vertical-align: middle;
+}
+
+/* One class per tag type */
+.pub-tag--conference   { background: #dbeafe; color: #1d4ed8; }
+.pub-tag--journal      { background: #dcfce7; color: #15803d; }
+.pub-tag--workshop     { background: #fef9c3; color: #a16207; }
+.pub-tag--best-paper   { background: #fef3c7; color: #b45309; border: 1px solid #fbbf24; }
+.pub-tag--honorable-mention { background: #ede9fe; color: #6d28d9; }
+.pub-tag--preprint     { background: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; }
