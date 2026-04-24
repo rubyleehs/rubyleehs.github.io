@@ -28,7 +28,7 @@
 }
 
 .archive__item{
-  margin-bottom: 1.2em;
+  margin-bottom: 1.5em;
 }
 
 .archive__subtitle {
@@ -46,7 +46,7 @@
 .archive__item-title {
   font-family: $sans-serif-narrow;
   margin: 0;
-  padding: 8px 0 8px 0;
+  padding: 8px 0 0 0;
 
   a + a {
     opacity: 0.5;
@@ -99,7 +99,7 @@
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    background-color: --global-bg-color-hover;
   }
 }
 
