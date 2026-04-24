@@ -8,5 +8,5 @@ excerpt: "Awarded with Best Doctoral Consortium Paper Honorable Mention"
 date: 2025-03-08
 venue: "2025 IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)"
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
-tags: [Doctorial Consortium, Honorable Mention]
+tags: [doctorial-consortium, honorable-mention]
 ---

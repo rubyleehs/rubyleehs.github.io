@@ -8,5 +8,5 @@ permalink:
 date: 2026-03-21
 venue: "2026 IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)"
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
-tags: [Poster]
+tags: [poster]
 ---

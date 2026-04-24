@@ -8,5 +8,5 @@ permalink: https://doi.org/10.1109/VRW62533.2024.00125
 date: 2024-03-16
 venue: "2024 IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)"
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
-tags: [Workshop]
+tags: [workshop]
 ---
