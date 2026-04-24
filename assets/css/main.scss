@@ -64,10 +64,15 @@
 .pub-tag--doctorial-consortium   { background: #dbeafe; color: #1d4ed8; }
 .pub-tag--journal      { background: #dcfce7; color: #15803d; }
 .pub-tag--workshop     { background: #fee2e2; color: #b91c1c; }
-
-.pub-tag--best-paper   { background: #fef3c7; color: #92400e; border: 2px solid #facc15; }
-.pub-tag--honorable-mention { background: #ede9fe; color: #6d28d9; border: 2px solid #ae15fa; }
 .pub-tag--preprint     { background: #f1f5f9; color: #475569;}
+
+.pub-tag--award {
+  border-width: 1px;
+  font-weight: 500;
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.02), 0 1px 2px rgba(0,0,0,0.06);
+}
+.pub-tag--best-paper   { @extend .pub-tag--award; background: #fef3c7; color: #92400e; border-color: #facc15; }
+.pub-tag--honorable-mention { @extend .pub-tag--award; background: #ede9fe; color: #6d28d9; border-color: #ae15fa; }
 
 .pub-tag--best-paper::before   { content: "🏆 ";}
 .pub-tag--honorable-mention::before { content: "🏅 "; }
