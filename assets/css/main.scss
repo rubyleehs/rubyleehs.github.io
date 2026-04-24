@@ -43,7 +43,11 @@
 
 
 /* Publication tags */
-.pub-tags {
+.pub-tags{
+  margin: 0
+}
+
+.pub-tag {
   display: inline-block;
   padding: 2px 8px;
   border-radius: 4px;
@@ -51,7 +55,7 @@
   font-weight: 600;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  margin: 2px;
+  margin-right: 2px;
   vertical-align: middle;
 }
 
@@ -62,7 +66,7 @@
 .pub-tag--workshop     { background: #fee2e2; color: #b91c1c; }
 
 .pub-tag--best-paper   { background: #fef3c7; color: #92400e; border: 2px solid #facc15; }
-.pub-tag--honorable-mention { background: #ede9fe; color: #6d28d9; border: 2px solid #cbd5e1; }
+.pub-tag--honorable-mention { background: #ede9fe; color: #6d28d9; border: 2px solid #ae15fa; }
 .pub-tag--preprint     { background: #f1f5f9; color: #475569;}
 
 .pub-tag--best-paper::before   { content: "🏆 ";}
