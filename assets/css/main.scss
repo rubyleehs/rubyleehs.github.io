@@ -66,11 +66,7 @@
 .pub-tag--workshop     { background: #fee2e2; color: #b91c1c; }
 .pub-tag--preprint     { background: #f1f5f9; color: #475569;}
 
-.pub-tag--award {
-  border-width: 1px;
-  font-weight: 500;
-  box-shadow: 0 0 0 1px rgba(0,0,0,0.02), 0 1px 2px rgba(0,0,0,0.06);
-}
+.pub-tag--award {border: 1.5px solid;}
 .pub-tag--best-paper   { @extend .pub-tag--award; background: #fef3c7; color: #92400e; border-color: #facc15; }
 .pub-tag--honorable-mention { @extend .pub-tag--award; background: #ede9fe; color: #6d28d9; border-color: #ae15fa; }
 
