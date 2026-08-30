@@ -3,7 +3,7 @@ title: "Exploring Relative Mapping for Parabolic Ground Pointing in VR: Lessons 
 authors: "Haopeng Wang, Alexandra Gerbert, Florian Weidner, Yasmeen Abdrabou, Anam Ahmad Khan, Hock Siang Lee, and Hans Gellersen"
 collection: publications
 #category: conferences
-permalink:
+permalink: https://doi.org/10.1109/VRW70859.2026.00207
 #excerpt: "Awarded with Best Doctoral Consortium Paper Honorable Mention"
 date: 2026-03-21
 venue: "2026 IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)"
