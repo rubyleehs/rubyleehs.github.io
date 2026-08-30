@@ -3,7 +3,7 @@ title: "How Do We Look Around? A Survey of Viewport Control Techniques in 360° 
 authors: "Hock Siang Lee, and Hans Gellersen"
 collection: publications
 #category: conferences
-permalink: https://doi.org/10.1109/VRW70859.2026.00024
+link: https://doi.org/10.1109/VRW70859.2026.00024
 #excerpt: "Awarded with Best Doctoral Consortium Paper Honorable Mention"
 date: 2026-03-21
 venue: "2026 IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)"
