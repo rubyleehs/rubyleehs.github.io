@@ -3,7 +3,7 @@ title: "Looking Around by Looking Around: Omnidirectional Gaze-based VR Viewport
 authors: "Hock Siang Lee, Jinghui Hu, Florian Weidner, Haopeng Wang, and Hans Gellersen"
 collection: publications
 #category: conferences
-link:
+permalink: "files\\publications\\2026-09-05-Looking-Around-By-Looking-Around.pdf"
 #excerpt: "Awarded with Best Doctoral Consortium Paper Honorable Mention"
 date: 2026-09-05
 venue: "IEEE Transactions on Visualization and Computer Graphics (TVCG), Special Issue on the 2026 IEEE Symposium on Mixed and Augmented Reality (ISMAR)"
